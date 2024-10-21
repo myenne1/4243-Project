@@ -1,0 +1,30 @@
+# Environment variables
+spotify_api.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.venv
+*.virtualenv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MacOS system files
+.DS_Store
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Any local configuration files
+config.py
+
+# Large data files (adjust as needed)
+*.csv
+*.json
